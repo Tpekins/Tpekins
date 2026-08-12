@@ -4,7 +4,7 @@
 
 **Software Engineer & Distributed Systems Researcher**
 
-I am a Software Engineer and Researcher focused on the architecture of scalable distributed systems and database optimization. My work bridges the gap between complex, production-grade backend logic and intuitive system experiences, treating real-world platforms as experimental testbeds to study data-retrieval latency, transactional integrity, and systems performance
+I am a Software Engineer and Researcher focused on the architecture of scalable distributed systems, database optimization, and Human-Computer Interaction (HCI). My work bridges the gap between complex, production-grade data infrastructure and user-centric system design, treating real-world platforms as experimental testbeds to study data-retrieval latency, transactional integrity, and performance in resource-constrained environments
 
 [![Website](https://img.shields.io/badge/Website-localhands.africa-20c997?style=flat-square&logo=google-chrome&logoColor=white)](https://localhands.africa) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tianipekins.com-0A0A0A?style=flat-square&logo=globe&logoColor=white)](https://tianipekins.com) 
