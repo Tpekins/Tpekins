@@ -29,7 +29,7 @@ I've built and shipped:
 - **Event management systems** with ticketing, automation, and real-time dashboards.
 - **IoT and smart home systems** sensors, microcontrollers, and hardware connected to intelligent web interfaces.
 - **Smart systems & security infrastructure** CCTV networks, access control, and IoT-driven building automation
-- **Productivity tools** leverging data analysis and visualization.
+- **Productivity tools** leveraging data analysis and visualization.
 
 
 Currently based in **Buea, Cameroon** 🌍
