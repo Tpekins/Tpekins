@@ -119,7 +119,7 @@ Currently based in **Buea, Cameroon** 🌍
 </p>
 </div>
 
-## 🚀 Featured Projects (Public)
+## 🚀 Featured Projects (Public
 
 | Project | Description | Stack |
 |---------|-------------|-------|
